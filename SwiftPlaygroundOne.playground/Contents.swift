@@ -20,3 +20,19 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+//decalare a variable, named helloMyNameIs. The string must be surrounded by ""
+var helloMyNameIs: String
+
+helloMyNameIs = "This is my homework"
+    
+var helloMyNameIsWhat = "this is a line from a track"
+
+var helloMyNameIsWho = "Slim Shady lol. "
+//note sure why that popped in my head but I think I at least got an output
+var helloMyName = helloMyNameIsWho + helloMyNameIsWhat
+
+print(helloMyName)
+
+
+
+
